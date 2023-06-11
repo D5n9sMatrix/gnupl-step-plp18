@@ -1,0 +1,2 @@
+/usr/bin/ar qc libgnupl-step.a CMakeFiles/gnupl-step.dir/gnupl-step.cpp.o
+/usr/bin/ranlib libgnupl-step.a

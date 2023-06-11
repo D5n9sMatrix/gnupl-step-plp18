@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/denis/Workspace/gnupl-step/gnu/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/gnupl-step.dir/gnupl-step.cpp.o -c /home/denis/Workspace/gnupl-step/gnu/gnupl-step.cpp",
+  "file": "/home/denis/Workspace/gnupl-step/gnu/gnupl-step.cpp"
+}
+]
